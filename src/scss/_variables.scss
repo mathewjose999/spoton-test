@@ -1,13 +1,17 @@
 /* colors */
 $primary-color: #404040;
+$color-white: #fff;
 
 /* fonts */
 $primary-font: 'Open Sans', sans-serif;
 
 /* font sizes */
-$fontsize-h1                : 40px;
-$fontsize-h2                : 24px;
+$fontsize-h1: 40px;
+$fontsize-h2: 24px;
 
 /* font weights */
 $fontweight-bold: 800;
 $fontweight-regular: 400;
+
+/* break point */
+$mobile:990px;
